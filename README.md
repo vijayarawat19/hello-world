@@ -1,3 +1,3 @@
 # hello-world
-codes treasure
+codes practise 
 
